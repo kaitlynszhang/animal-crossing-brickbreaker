@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BrickBreakerGame
+comment1.params=
+comment1.target=BrickBreakerGame()
+comment2.params=screenName
+comment2.target=void\ showScreen(java.lang.String)
+comment3.params=screenName
+comment3.target=GameScreen\ getScreen(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getGameMode()
+comment4.text=\r\n\ \ \ \ public\ void\ setGameMode(String\ mode)\ {\r\n\ \ \ \ \ \ \ \ this.gameMode\ \=\ mode;\r\n\ \ \ \ \ \ \ \ if\ (gamePlayScreen\ \!\=\ null)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ gamePlayScreen.setGameMode(mode);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment5.params=score
+comment5.target=void\ endGame(int)
+comment6.params=
+comment6.target=void\ playBackgroundMusic()
+comment7.params=volumeLevel
+comment7.target=void\ setMusicVolume(float)
+comment8.params=
+comment8.target=void\ playClickSound()
+numComments=9

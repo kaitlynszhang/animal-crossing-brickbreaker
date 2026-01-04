@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EndGameScreen
+comment1.params=game
+comment1.target=EndGameScreen(BrickBreakerGame)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment4.params=score
+comment4.target=void\ setFinalScore(int)
+comment5.params=apples\ oranges\ pears\ blueberries
+comment5.target=void\ setFruitStats(int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ onActivate()
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ drawScoreInfo(java.awt.Graphics)
+comment9.params=g
+comment9.target=void\ drawDebugBounds(java.awt.Graphics)
+numComments=10

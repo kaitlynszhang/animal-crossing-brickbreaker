@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TomNookTalkingScreen
+comment1.params=game
+comment1.target=TomNookTalkingScreen(BrickBreakerGame)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=void\ onActivate()
+comment4.params=
+comment4.target=void\ nextDialogue()
+comment5.params=dialogueIndex
+comment5.target=void\ playDialogueSound(int)
+comment6.params=
+comment6.target=void\ stopCurrentDialogueSound()
+comment7.params=
+comment7.target=void\ cleanup()
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9

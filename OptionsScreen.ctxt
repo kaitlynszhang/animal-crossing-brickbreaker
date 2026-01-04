@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OptionsScreen
+comment1.params=game
+comment1.target=OptionsScreen(BrickBreakerGame)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=void\ setupVolumeSliders()
+comment4.params=sliderValue
+comment4.target=float\ convertVolumeToDecibels(int)
+comment5.params=
+comment5.target=void\ onActivate()
+comment6.params=
+comment6.target=void\ saveSettings()
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HomeScreen
+comment1.params=game
+comment1.target=HomeScreen(BrickBreakerGame)
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=e
+comment4.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment5.params=e
+comment5.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment6.params=
+comment6.target=void\ onActivate()
+comment7.params=g
+comment7.target=void\ drawDebugBounds(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9

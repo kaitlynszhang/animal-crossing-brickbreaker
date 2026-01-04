@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlueberryBrick
+comment1.params=x\ y\ width\ height
+comment1.target=BlueberryBrick(int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ drawHitIndicator(java.awt.Graphics)
+comment3.params=
+comment3.target=java.lang.String\ getFruitType()
+comment4.params=
+comment4.target=int\ getPoints()
+numComments=5
